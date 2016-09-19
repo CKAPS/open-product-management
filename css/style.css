@@ -86,7 +86,10 @@ body{
 .logo{
   margin-left: -5px;
 }
-
+.carousel-caption{
+        margin-top: -80px;
+        font-weight: 2rem;
+    }
     .first {
         margin-left: 30px;
        
