@@ -87,9 +87,8 @@ body{
   margin-left: -5px;
 }
 
-.fa fa-arrow-circle-down{
-    margin-left: -300px;
-}
+i.fa-arrow-circle-down.fa{
+    margin-left: -400px}
 .carousel-caption{
         margin-top: -80px;
         font-weight: 2rem;
