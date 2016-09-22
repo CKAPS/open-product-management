@@ -87,7 +87,7 @@ body{
   margin-left: -5px;
 }
 
-.fa {
+.panel-title .fa {
    display: none;}
 .carousel-caption{
         margin-top: -80px;
