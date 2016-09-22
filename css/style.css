@@ -90,8 +90,18 @@ body{
 .fa-arrow-circle-down {
    display: none;}
    
-   .fa .fa-arrow-circle-up {
+ #menu-toggle{
    display: none;}
+   
+    #menu1-toggle{
+   display: none;}
+   
+   #menu2-toggle{
+   display: none;}
+   
+   #menu3-toggle{
+   display: none;}
+   
 .carousel-caption{
         margin-top: -80px;
         font-weight: 2rem;
