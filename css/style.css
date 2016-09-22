@@ -88,7 +88,7 @@ body{
 }
 
 .fa {
-   display: none;}
+   margin-left: -400px;}
 .carousel-caption{
         margin-top: -80px;
         font-weight: 2rem;
