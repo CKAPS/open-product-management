@@ -1,7 +1,7 @@
 body{
     max-width: 1265px;
-    
-    
+
+
 }
 .h3, h3{
     font-size: 3rem;
@@ -17,12 +17,12 @@ body{
 }
 .item{
   margin-right: -84px;
-    margin-left: -80px;
+  margin-left: -70px;
 }
 .carousel-caption{
-  
+
     top: 30px;
-   
+
     padding-top: 40px;
 }
 
@@ -37,7 +37,7 @@ body{
     border: 1px solid rgb(255,90,95);
     opacity: 1;
     border-radius: 8px;
-    
+
 }
 
 .first a{
@@ -45,15 +45,15 @@ body{
 }
 
 .first a:hover{
-   
+
     font-weight: 1000;
 }
 
-.first article:hover {      
- 
-   
+.first article:hover {
+
+
     border-bottom: 4px solid rgb(255,90,95);
-    
+
 }
 
 .second article{
@@ -67,11 +67,11 @@ body{
     color: rgb(255,90,95) ;
 }
 
-.second article:hover {      
- 
-   
+.second article:hover {
+
+
     border-bottom: 4px solid rgb(255,90,95);
-    
+
 }
 
 .panel-body a{
@@ -89,10 +89,10 @@ body{
 
 .fa-arrow-circle-down {
    display: none;}
-  
+
   .fa-arrow-circle-up {
    display: none;}
-    
+
 
 .carousel-caption{
         margin-top: -80px;
@@ -100,16 +100,16 @@ body{
     }
     .first {
         margin-left: 30px;
-       
+
     }
     .first article{
          margin-bottom: 20px;
     }
     .item{
         margin-right: -14px;
-        
+
     }
-   
+
 };
 
 @media(max-width: 768px)
